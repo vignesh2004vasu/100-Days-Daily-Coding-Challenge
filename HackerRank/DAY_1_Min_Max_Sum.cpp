@@ -10,6 +10,7 @@
 // The function prints
 // 16 24
 
+
 // Answer:
 
 #include<bits/stdc++.h>

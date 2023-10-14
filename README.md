@@ -11,3 +11,4 @@ Day 1 Coding Challenge:
 LeetCode - Min Cost Climbing stairs
 HackerRank - Min Max Sum
 CodeChef - Lucky Seven
+HackerEarth - Monk and Rotation

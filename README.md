@@ -20,3 +20,10 @@ LeetCode - Valid Parentheses
 HackerRank - Time Conversions
 CodeChef - Red Light,Green Light
 HackerEarth - Monk and Rotation
+
+Day 3 Coding Challenge:
+15/10/2023
+LeetCode - Longest Common Prefix
+HackerRank - Diagonal Difference
+CodeChef - Counting Pretty Numbers
+HackerEarth - Minimum AND XOR OR

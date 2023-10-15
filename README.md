@@ -8,7 +8,15 @@ I encourage you to participate, share your own coding experiences
 Here are the  updates :
 
 Day 1 Coding Challenge:
+13/10/2023
 LeetCode - Min Cost Climbing stairs
 HackerRank - Min Max Sum
 CodeChef - Lucky Seven
+HackerEarth - Monk and Rotation
+
+Day 2 Coding Challenge:
+14/10/2023
+LeetCode - Valid Parentheses
+HackerRank - Time Conversions
+CodeChef - Red Light,Green Light
 HackerEarth - Monk and Rotation

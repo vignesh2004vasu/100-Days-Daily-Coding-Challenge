@@ -30,9 +30,9 @@ HackerEarth - Minimum AND XOR OR
 
 Day 4 Coding Challenge:
 16/10/2023
-LeetCode - 
+LeetCode - Rotate Image
 HackerRank - Lonely Integers
-CodeChef - Rotate Image
+CodeChef - The Block Game
 HackerEarth - Ali and Helping Innocent People
 
 

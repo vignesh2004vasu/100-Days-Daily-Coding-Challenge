@@ -31,8 +31,8 @@ HackerEarth - Minimum AND XOR OR
 Day 4 Coding Challenge:
 16/10/2023
 LeetCode - 
-HackerRank - 
-CodeChef - 
+HackerRank - Lonely Integers
+CodeChef - Rotate Image
 HackerEarth - Ali and Helping Innocent People
 
 

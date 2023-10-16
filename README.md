@@ -27,3 +27,12 @@ LeetCode - Longest Common Prefix
 HackerRank - Diagonal Difference
 CodeChef - Counting Pretty Numbers
 HackerEarth - Minimum AND XOR OR
+
+Day 4 Coding Challenge:
+16/10/2023
+LeetCode - 
+HackerRank - 
+CodeChef - 
+HackerEarth - Ali and Helping Innocent People
+
+

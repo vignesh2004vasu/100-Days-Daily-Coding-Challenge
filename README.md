@@ -37,9 +37,9 @@ HackerEarth - Ali and Helping Innocent People
 
 Day 5 Coding Challenge:
 17/10/2023
-LeetCode - 
-HackerRank - 
+LeetCode - Climbing Stairs
+HackerRank - Caesar Cipher
 CodeChef - Chef and Dolls
-HackerEarth - 
+HackerEarth - Employee Rating
 
 

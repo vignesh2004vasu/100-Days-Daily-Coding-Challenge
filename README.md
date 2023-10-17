@@ -35,4 +35,11 @@ HackerRank - Lonely Integers
 CodeChef - The Block Game
 HackerEarth - Ali and Helping Innocent People
 
+Day 5 Coding Challenge:
+17/10/2023
+LeetCode - 
+HackerRank - 
+CodeChef - Chef and Dolls
+HackerEarth - 
+
 

@@ -42,4 +42,11 @@ HackerRank - Caesar Cipher
 CodeChef - Chef and Dolls
 HackerEarth - Employee Rating
 
+Day 6 Coding Challenge:
+18/10/2023
+LeetCode - Median of The Two Sorted Arrays
+HackerRank - 
+CodeChef - Chef and Happy String
+HackerEarth - 
+
 

@@ -45,8 +45,8 @@ HackerEarth - Employee Rating
 Day 6 Coding Challenge:
 18/10/2023
 LeetCode - Median of The Two Sorted Arrays
-HackerRank - 
+HackerRank - Pangrams
 CodeChef - Chef and Happy String
-HackerEarth - 
+HackerEarth - Split Houses
 
 

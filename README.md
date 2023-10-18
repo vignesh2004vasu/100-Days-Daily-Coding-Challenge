@@ -49,4 +49,13 @@ HackerRank - Pangrams
 CodeChef - Chef and Happy String
 HackerEarth - Split Houses
 
+Day 7 Coding Challenge:
+19/10/2023
+LeetCode - Calculate Money in Leetcode Bank
+HackerRank - Sherlock and Array
+CodeChef - Recent Contest Problem
+HackerEarth - Roy and Profile Picture
+
+
+
 

@@ -57,11 +57,18 @@ CodeChef - Recent Contest Problem
 HackerEarth - Roy and Profile Picture
 
 Day 8 Coding Challenge:
-19/10/2023
+20/10/2023
 LeetCode -  Find the Index of the First Occurrence in a String
 HackerRank - New Year Chaos
 CodeChef - Equal Elements
 HackerEarth - Zoos
+
+Day 9 Coding Challenge:
+21/10/2023
+LeetCode -  Set Matrix Zero
+HackerRank - Strong Password
+CodeChef - The Lead Game
+HackerEarth - Count Divisors
 
 
 

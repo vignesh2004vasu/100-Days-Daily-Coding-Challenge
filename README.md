@@ -77,6 +77,13 @@ HackerRank - Smart Number
 CodeChef - Prime Reversal
 HackerEarth - Monk and Nice Strings
 
+Day 11 Coding Challenge:
+25/10/2023
+LeetCode -  Add Binary
+HackerRank - Number Line Jumps
+CodeChef - Chef and Lockout Draws
+HackerEarth - Monk and Suffix Sort
+
 
 
 

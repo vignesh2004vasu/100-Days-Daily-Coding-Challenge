@@ -84,6 +84,13 @@ HackerRank - Number Line Jumps
 CodeChef - Chef and Lockout Draws
 HackerEarth - Monk and Suffix Sort
 
+Day 12 Coding Challenge:
+26/10/2023
+LeetCode -  Search Insert Position
+HackerRank - Sales By Match
+CodeChef - Easy Pronunciation
+HackerEarth - Excursion
+
 
 
 

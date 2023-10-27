@@ -91,6 +91,20 @@ HackerRank - Sales By Match
 CodeChef - Easy Pronunciation
 HackerEarth - Excursion
 
+Day 13 Coding Challenge:
+27/10/2023
+LeetCode -  Pascal 's Triangle
+HackerRank - Sparse Arrays
+CodeChef - Cyclic Quadrilateral
+HackerEarth - Palindrome Swapping
+
+Day 14 Coding Challenge:
+28/10/2023
+LeetCode -  Single Number
+HackerRank - Migratory Birds
+CodeChef - Shoe Fit
+HackerEarth - Letter Most
+
 
 
 

@@ -112,6 +112,13 @@ HackerRank - Divisible Sum Pairs
 CodeChef - Back To Campus
 HackerEarth - Going To Office
 
+Day 16 Coding Challenge:
+30/10/2023
+LeetCode -  Two Sum
+HackerRank - Bill Division
+CodeChef - Minimum Attendence Requirement
+HackerEarth - Remove Duplicates
+
 
 
 

@@ -124,7 +124,7 @@ Day 17 Coding Challenge:
 LeetCode -  Counting Bits
 HackerRank - Coin Change Problem
 CodeChef - Lucky Four
-HackerEarth - 
+HackerEarth - Beautiful Journey
 
 
 

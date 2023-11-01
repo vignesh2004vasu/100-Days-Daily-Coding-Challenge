@@ -126,6 +126,13 @@ HackerRank - Coin Change Problem
 CodeChef - Lucky Four
 HackerEarth - Beautiful Journey
 
+Day 18 Coding Challenge:
+01/11/2023
+LeetCode - Faulty Keyboard 
+HackerRank - 
+CodeChef - ATM Machine
+HackerEarth - 
+
 
 
 

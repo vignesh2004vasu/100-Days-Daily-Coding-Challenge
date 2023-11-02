@@ -133,6 +133,13 @@ CodeChef - ATM Machine
 CodingNinjas - Binary Search
 GeeksForGeeks - Bleak Number
 
+Day 19 Coding Challenge:
+02/11/2023
+LeetCode -  Remove Element
+CodeChef - Chef Diet
+CodingNinjas - Sort 0 1 2
+GeeksForGeeks - Wave Array
+
 
 
 

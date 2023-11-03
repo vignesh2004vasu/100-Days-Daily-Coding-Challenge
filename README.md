@@ -140,6 +140,13 @@ CodeChef - Chef Diet
 CodingNinjas - Sort 0 1 2
 GeeksForGeeks - Wave Array
 
+Day 20 Coding Challenge:
+03/11/2023
+LeetCode -  
+CodeChef - Encoding Message
+CodingNinjas - 
+GeeksForGeeks - 
+
 
 
 

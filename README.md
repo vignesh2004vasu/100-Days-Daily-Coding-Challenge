@@ -142,10 +142,10 @@ GeeksForGeeks - Wave Array
 
 Day 20 Coding Challenge:
 03/11/2023
-LeetCode -  
+LeetCode - Build an Array with Stack Operations
 CodeChef - Encoding Message
 CodingNinjas - 
-GeeksForGeeks - 
+GeeksForGeeks - Sum of XOR of all Pairs
 
 
 

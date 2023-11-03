@@ -144,7 +144,7 @@ Day 20 Coding Challenge:
 03/11/2023
 LeetCode - Build an Array with Stack Operations
 CodeChef - Encoding Message
-CodingNinjas - 
+CodingNinjas - K-Replacement
 GeeksForGeeks - Sum of XOR of all Pairs
 
 

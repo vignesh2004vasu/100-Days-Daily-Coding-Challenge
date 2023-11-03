@@ -147,6 +147,13 @@ CodeChef - Encoding Message
 CodingNinjas - K-Replacement
 GeeksForGeeks - Sum of XOR of all Pairs
 
+Day 21 Coding Challenge:
+04/11/2023
+LeetCode - Container with Most Water
+CodeChef - Peak Finding
+CodingNinjas - 
+GeeksForGeeks - 
+
 
 
 

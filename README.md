@@ -154,6 +154,13 @@ CodeChef - Peak Finding
 CodingNinjas - Longest Common Subsequence
 GeeksForGeeks - Stickler Theif
 
+Day 22 Coding Challenge:
+05/11/2023
+LeetCode - Maximum Product of Three Number
+CodeChef - Equalize AB
+CodingNinjas - Rod Cutting Problem
+GeeksForGeeks - Find Transition Point
+
 
 
 

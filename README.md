@@ -166,7 +166,7 @@ Day 23 Coding Challenge:
 LeetCode - Zig Zag Conversion
 CodeChef - Adjacent Sum Parity
 CodingNinjas - Reverse Linked List
-GeeksForGeeks - 
+GeeksForGeeks - Equilibrium Point
 
 
 

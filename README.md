@@ -161,6 +161,13 @@ CodeChef - Equalize AB
 CodingNinjas - Rod Cutting Problem
 GeeksForGeeks - Find Transition Point
 
+Day 23 Coding Challenge:
+06/11/2023
+LeetCode - Zig Zag Conversion
+CodeChef - Adjacent Sum Parity
+CodingNinjas - Reverse Linked List
+GeeksForGeeks - 
+
 
 
 

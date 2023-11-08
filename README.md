@@ -175,6 +175,13 @@ CodeChef - Slow Start
 CodingNinjas - Complex Number Class
 GeeksForGeeks - Count Number of Hops
 
+Day 24 Coding Challenge:
+08/11/2023
+LeetCode - Remove Duplicate from Sorted Array
+CodeChef - Even-Tual Reduction
+CodingNinjas - Find Character Case
+GeeksForGeeks - Print Matrix in Snake Pattern
+
 
 
 

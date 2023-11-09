@@ -186,7 +186,7 @@ Day 26 Coding Challenge:
 09/11/2023
 LeetCode - Multiply Strings
 CodeChef - End Sorted
-CodingNinjas - 
+CodingNinjas - Sort a Stack
 GeeksForGeeks - Predict the Column
 
 

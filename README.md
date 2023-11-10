@@ -189,6 +189,13 @@ CodeChef - End Sorted
 CodingNinjas - Sort a Stack
 GeeksForGeeks - Predict the Column
 
+Day 27 Coding Challenge:
+10/11/2023
+LeetCode - Next Permutation
+CodeChef - Valid Minimum
+CodingNinjas - Reverse A Stack Using Recursion
+GeeksForGeeks - Number Following A Pattern
+
 
 
 

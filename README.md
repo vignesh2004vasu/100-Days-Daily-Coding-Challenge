@@ -210,6 +210,13 @@ CodeChef - Append For OR
 CodingNinjas - Best TIme to Buy and Sell Stocks
 GeeksForGeeks - Check if string is rotated by two places
 
+Day 30 Coding Challenge:
+13/11/2023
+LeetCode - Roman To Integer
+CodeChef - Broken Telephone
+CodingNinjas - Painter's Partition Problem
+GeeksForGeeks - Shortest Common Supersequence
+
 
 
 

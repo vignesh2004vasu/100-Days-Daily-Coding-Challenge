@@ -219,9 +219,9 @@ GeeksForGeeks - Shortest Common Supersequence
 
 Day 30 Coding Challenge:
 14/11/2023
-LeetCode - 
-CodeChef - 
-CodingNinjas - 
+LeetCode - Merge Two Sorted List
+CodeChef - Drumpf for President
+CodingNinjas - Find Unique
 GeeksForGeeks - Check if strings are rotations of each other or not
 
 

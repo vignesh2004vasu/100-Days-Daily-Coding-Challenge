@@ -217,12 +217,19 @@ CodeChef - Broken Telephone
 CodingNinjas - Painter's Partition Problem
 GeeksForGeeks - Shortest Common Supersequence
 
-Day 30 Coding Challenge:
+Day 31 Coding Challenge:
 14/11/2023
 LeetCode - Merge Two Sorted List
 CodeChef - Drumpf for President
 CodingNinjas - Find Unique
 GeeksForGeeks - Check if strings are rotations of each other or not
+
+Day 32 Coding Challenge:
+15/11/2023
+LeetCode - 
+CodeChef - 
+CodingNinjas - Maximum sum of non-adjacent elements
+GeeksForGeeks - 
 
 
 

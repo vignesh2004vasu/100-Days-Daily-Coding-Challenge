@@ -227,9 +227,9 @@ GeeksForGeeks - Check if strings are rotations of each other or not
 Day 32 Coding Challenge:
 15/11/2023
 LeetCode -Maximum Element After Decreasing and Rearranging
-CodeChef - 
+CodeChef - Weapon Value
 CodingNinjas - Maximum sum of non-adjacent elements
-GeeksForGeeks - 
+GeeksForGeeks - Maximum sum increasing subsequence
 
 
 

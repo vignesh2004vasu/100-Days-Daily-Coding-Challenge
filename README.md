@@ -231,6 +231,13 @@ CodeChef - Weapon Value
 CodingNinjas - Maximum sum of non-adjacent elements
 GeeksForGeeks - Maximum sum increasing subsequence
 
+Day 33 Coding Challenge:
+16/11/2023
+LeetCode - Happy Number
+CodeChef - Transfusion Chain
+CodingNinjas - Modular Exponentiation
+GeeksForGeeks - Smallest Positive Missing Number
+
 
 
 

@@ -238,6 +238,13 @@ CodeChef - Transfusion Chain
 CodingNinjas - Modular Exponentiation
 GeeksForGeeks - Smallest Positive Missing Number
 
+Day 34 Coding Challenge:
+17/11/2023
+LeetCode - Valid Palindrome II
+CodeChef - Jumping in the Hills
+CodingNinjas - set Bits
+GeeksForGeeks - Nth Catalan Number
+
 
 
 

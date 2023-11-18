@@ -245,6 +245,13 @@ CodeChef - Jumping in the Hills
 CodingNinjas - set Bits
 GeeksForGeeks - Nth Catalan Number
 
+Day 35 Coding Challenge:
+18/11/2023
+LeetCode - Plus One
+CodeChef - New Piece
+CodingNinjas - Unique Paths
+GeeksForGeeks - Reverse Doubly Linked List
+
 
 
 

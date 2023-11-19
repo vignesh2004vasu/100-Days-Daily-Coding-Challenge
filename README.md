@@ -252,7 +252,7 @@ CodeChef - New Piece
 CodingNinjas - Unique Paths
 GeeksForGeeks - Reverse Doubly Linked List
 
-Day 35 Coding Challenge:
+Day 36 Coding Challenge:
 19/11/2023
 LeetCode - Palindrome Number
 CodeChef - Chef and Coupon

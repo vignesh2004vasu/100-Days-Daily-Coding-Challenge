@@ -259,6 +259,12 @@ CodeChef - Chef and Coupon
 CodingNinjas - Next Greater Element
 GeeksForGeeks - Find triplets with zero sum
 
+Day 37 Coding Challenge:
+20/11/2023
+LeetCode - Permutations
+CodeChef - Odd Repeat
+CodingNinjas - Power Set
+GeeksForGeeks - Lemonade Change
 
 
 

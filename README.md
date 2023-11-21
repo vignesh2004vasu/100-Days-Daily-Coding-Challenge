@@ -266,6 +266,13 @@ CodeChef - Odd Repeat
 CodingNinjas - Power Set
 GeeksForGeeks - Lemonade Change
 
+Day 38 Coding Challenge:
+21/11/2023
+LeetCode - Pow(X,N)
+CodeChef - Vaccine Distribution
+CodingNinjas - Print Kth Digit
+GeeksForGeeks - Determine if Two Tree are Identical
+
 
 
 

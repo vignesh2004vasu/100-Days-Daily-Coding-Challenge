@@ -281,6 +281,14 @@ CodingNinjas - Find Smallest Integer
 GeeksForGeeks - Symmetric Tree
 
 
+Day 40 Coding Challenge:
+23/11/2023
+LeetCode - Maximul Square
+CodeChef - EVM Hacking
+CodingNinjas - Admission in NinjaGram
+GeeksForGeeks - CamelCase Pattern Matching
+
+
 
 
 

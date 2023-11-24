@@ -291,10 +291,10 @@ GeeksForGeeks - CamelCase Pattern Matching
 
 Day 41 Coding Challenge:
 24/11/2023
-LeetCode - 
-CodeChef - 
-CodingNinjas - 
-GeeksForGeeks - 
+LeetCode - Excel Sheet Column Number
+CodeChef - Chef and Mean
+CodingNinjas - Set Matrix Zero
+GeeksForGeeks - MatchStic Game
 
 
 

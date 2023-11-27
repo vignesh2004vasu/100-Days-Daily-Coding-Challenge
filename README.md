@@ -298,24 +298,24 @@ GeeksForGeeks - MatchStic Game
 
 Day 42 Coding Challenge:
 25/11/2023
-LeetCode - 
-CodeChef - 
-CodingNinjas - 
-GeeksForGeeks - 
+LeetCode - Ransome Note
+CodeChef - Two Trains
+CodingNinjas - Reverse First K elements of Queue
+GeeksForGeeks - Is Binary Algorithm
 
 Day 43 Coding Challenge:
 26/11/2023
-LeetCode - 
-CodeChef - 
-CodingNinjas - 
-GeeksForGeeks - 
+LeetCode - Sqrt(x)
+CodeChef - Rock Paper Scissor
+CodingNinjas - Subsequence of String
+GeeksForGeeks - Kadane 's Algorithm
 
 Day 44 Coding Challenge:
 27/11/2023
-LeetCode - 
-CodeChef - 
-CodingNinjas - 
-GeeksForGeeks - 
+LeetCode - Valid Anagram
+CodeChef - Making a Meal
+CodingNinjas - Sum or Product
+GeeksForGeeks - Apple Sequence
 
 
 

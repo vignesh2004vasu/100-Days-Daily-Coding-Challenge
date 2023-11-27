@@ -296,6 +296,27 @@ CodeChef - Chef and Mean
 CodingNinjas - Set Matrix Zero
 GeeksForGeeks - MatchStic Game
 
+Day 42 Coding Challenge:
+25/11/2023
+LeetCode - 
+CodeChef - 
+CodingNinjas - 
+GeeksForGeeks - 
+
+Day 43 Coding Challenge:
+26/11/2023
+LeetCode - 
+CodeChef - 
+CodingNinjas - 
+GeeksForGeeks - 
+
+Day 44 Coding Challenge:
+27/11/2023
+LeetCode - 
+CodeChef - 
+CodingNinjas - 
+GeeksForGeeks - 
+
 
 
 

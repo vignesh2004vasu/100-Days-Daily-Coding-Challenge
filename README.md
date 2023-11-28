@@ -317,6 +317,13 @@ CodeChef - Making a Meal
 CodingNinjas - Sum or Product
 GeeksForGeeks - Apple Sequence
 
+Day 45 Coding Challenge:
+28/11/2023
+LeetCode - Minimum Path Sum
+CodeChef - Sarthak and Magic Grid
+CodingNinjas - Rotate Array
+GeeksForGeeks - Sum of dependencies in a graph
+
 
 
 

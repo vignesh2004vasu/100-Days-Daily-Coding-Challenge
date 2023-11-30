@@ -331,6 +331,14 @@ CodeChef - Break The Stick
 CodingNinjas - Find Duplicates in ArrayList
 GeeksForGeeks - Queue Reversal
 
+Day 47 Coding Challenge:
+30/11/2023
+LeetCode - Contains Duplicate
+CodeChef - Buying New Tablet
+CodingNinjas - Sum of Two Array
+GeeksForGeeks - Shortest Path From 1 to N
+
+
 
 
 

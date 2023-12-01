@@ -338,6 +338,13 @@ CodeChef - Buying New Tablet
 CodingNinjas - Sum of Two Array
 GeeksForGeeks - Shortest Path From 1 to N
 
+Day 48 Coding Challenge:
+1/12/2023
+LeetCode - Detect Capital
+CodeChef - The One With The Russ
+CodingNinjas - Validate IP Address
+GeeksForGeeks - The Wifi Range
+
 
 
 

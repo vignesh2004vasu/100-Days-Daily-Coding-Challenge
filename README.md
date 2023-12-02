@@ -345,6 +345,13 @@ CodeChef - The One With The Russ
 CodingNinjas - Validate IP Address
 GeeksForGeeks - The Wifi Range
 
+Day 49 Coding Challenge:
+2/12/2023
+LeetCode - Max Consecutive Ones
+CodeChef - Lost Weekends
+CodingNinjas - Minimum Difference of Array
+GeeksForGeeks - Inorder Traversal and BST
+
 
 
 

@@ -356,7 +356,7 @@ Day 50 Coding Challenge:
 3/12/2023
 LeetCode - Valid Perfect Square
 CodeChef - Plus Multiply
-CodingNinjas - 
+CodingNinjas - Majority Element
 GeeksForGeeks - Distinct Coloring
 
 

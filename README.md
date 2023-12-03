@@ -352,6 +352,13 @@ CodeChef - Lost Weekends
 CodingNinjas - Minimum Difference of Array
 GeeksForGeeks - Inorder Traversal and BST
 
+Day 50 Coding Challenge:
+3/12/2023
+LeetCode - Valid Perfect Square
+CodeChef - Plus Multiply
+CodingNinjas - 
+GeeksForGeeks - Distinct Coloring
+
 
 
 

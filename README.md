@@ -359,6 +359,13 @@ CodeChef - Plus Multiply
 CodingNinjas - Majority Element
 GeeksForGeeks - Distinct Coloring
 
+Day 51 Coding Challenge:
+4/12/2023
+LeetCode - Nim Game
+CodeChef - Candies
+CodingNinjas - Binary Linked List to Integer
+GeeksForGeeks - Maximum Depth of Binary Tree
+
 
 
 

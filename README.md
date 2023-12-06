@@ -373,6 +373,13 @@ CodeChef - CodeChef Streak
 CodingNinjas - Mailing Problem
 GeeksForGeeks - Geeks and The String
 
+Day 53 Coding Challenge:
+6/12/2023
+LeetCode - Island Perimeter
+CodeChef - Weird Walk
+CodingNinjas - Generate Binary Numbers
+GeeksForGeeks - How Many X's
+
 
 
 

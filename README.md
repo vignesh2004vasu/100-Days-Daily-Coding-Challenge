@@ -380,6 +380,13 @@ CodeChef - Weird Walk
 CodingNinjas - Generate Binary Numbers
 GeeksForGeeks - How Many X's
 
+Day 54 Coding Challenge:
+7/12/2023
+LeetCode - Remove Duplicates from Sorted List 
+CodeChef - Card Removal
+CodingNinjas - Product of Array Except Self
+GeeksForGeeks - Number of Coins
+
 
 
 

@@ -387,6 +387,13 @@ CodeChef - Card Removal
 CodingNinjas - Product of Array Except Self
 GeeksForGeeks - Number of Coins
 
+Day 55 Coding Challenge:
+8/12/2023
+LeetCode - First Unique Character in a String
+CodeChef - Change It
+CodingNinjas - Tree Traversals
+GeeksForGeeks - Transform to prime
+
 
 
 

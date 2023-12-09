@@ -1,11 +1,12 @@
 # 100-Days-Daily-Coding-Challenge
+
 I am thrilled to kick off my '100 Days Daily Coding Contest' today! 💻📅
 Over the next 100 days,
 I'll be dedicating time each day to sharpen my coding skills,
 tackle new challenges, and expand my knowledge in the world of programming.
 I encourage you to participate, share your own coding experiences
 
-Here are the  updates :
+Here are the updates :
 
 Day 1 Coding Challenge:
 13/10/2023
@@ -58,84 +59,84 @@ HackerEarth - Roy and Profile Picture
 
 Day 8 Coding Challenge:
 20/10/2023
-LeetCode -  Find the Index of the First Occurrence in a String
+LeetCode - Find the Index of the First Occurrence in a String
 HackerRank - New Year Chaos
 CodeChef - Equal Elements
 HackerEarth - Zoos
 
 Day 9 Coding Challenge:
 21/10/2023
-LeetCode -  Set Matrix Zero
+LeetCode - Set Matrix Zero
 HackerRank - Strong Password
 CodeChef - The Lead Game
 HackerEarth - Count Divisors
 
 Day 10 Coding Challenge:
 24/10/2023
-LeetCode -  Length of Last World
+LeetCode - Length of Last World
 HackerRank - Smart Number
 CodeChef - Prime Reversal
 HackerEarth - Monk and Nice Strings
 
 Day 11 Coding Challenge:
 25/10/2023
-LeetCode -  Add Binary
+LeetCode - Add Binary
 HackerRank - Number Line Jumps
 CodeChef - Chef and Lockout Draws
 HackerEarth - Monk and Suffix Sort
 
 Day 12 Coding Challenge:
 26/10/2023
-LeetCode -  Search Insert Position
+LeetCode - Search Insert Position
 HackerRank - Sales By Match
 CodeChef - Easy Pronunciation
 HackerEarth - Excursion
 
 Day 13 Coding Challenge:
 27/10/2023
-LeetCode -  Pascal 's Triangle
+LeetCode - Pascal 's Triangle
 HackerRank - Sparse Arrays
 CodeChef - Cyclic Quadrilateral
 HackerEarth - Palindrome Swapping
 
 Day 14 Coding Challenge:
 28/10/2023
-LeetCode -  Single Number
+LeetCode - Single Number
 HackerRank - Migratory Birds
 CodeChef - Shoe Fit
 HackerEarth - Letter Most
 
 Day 15 Coding Challenge:
 29/10/2023
-LeetCode -  Sudoku Solver
+LeetCode - Sudoku Solver
 HackerRank - Divisible Sum Pairs
 CodeChef - Back To Campus
 HackerEarth - Going To Office
 
 Day 16 Coding Challenge:
 30/10/2023
-LeetCode -  Two Sum
+LeetCode - Two Sum
 HackerRank - Bill Division
 CodeChef - Minimum Attendence Requirement
 HackerEarth - Remove Duplicates
 
 Day 17 Coding Challenge:
 31/10/2023
-LeetCode -  Counting Bits
+LeetCode - Counting Bits
 HackerRank - Coin Change Problem
 CodeChef - Lucky Four
 HackerEarth - Beautiful Journey
 
 Day 18 Coding Challenge:
 01/11/2023
-LeetCode - Faulty Keyboard 
+LeetCode - Faulty Keyboard
 CodeChef - ATM Machine
 CodingNinjas - Binary Search
 GeeksForGeeks - Bleak Number
 
 Day 19 Coding Challenge:
 02/11/2023
-LeetCode -  Remove Element
+LeetCode - Remove Element
 CodeChef - Chef Diet
 CodingNinjas - Sort 0 1 2
 GeeksForGeeks - Wave Array
@@ -280,14 +281,12 @@ CodeChef - Chef and Party
 CodingNinjas - Find Smallest Integer
 GeeksForGeeks - Symmetric Tree
 
-
 Day 40 Coding Challenge:
 23/11/2023
 LeetCode - Maximul Square
 CodeChef - EVM Hacking
 CodingNinjas - Admission in NinjaGram
 GeeksForGeeks - CamelCase Pattern Matching
-
 
 Day 41 Coding Challenge:
 24/11/2023
@@ -382,7 +381,7 @@ GeeksForGeeks - How Many X's
 
 Day 54 Coding Challenge:
 7/12/2023
-LeetCode - Remove Duplicates from Sorted List 
+LeetCode - Remove Duplicates from Sorted List
 CodeChef - Card Removal
 CodingNinjas - Product of Array Except Self
 GeeksForGeeks - Number of Coins
@@ -394,12 +393,9 @@ CodeChef - Change It
 CodingNinjas - Tree Traversals
 GeeksForGeeks - Transform to prime
 
-
-
-
-
-
-
-
-
-
+Day 56 Coding Challenge:
+9/12/2023
+LeetCode - Binary Tree Inorder Traversal
+CodeChef - Travel Pass
+CodingNinjas - Different Bits Sum Pairwise
+GeeksForGeeks - Reverse Coding

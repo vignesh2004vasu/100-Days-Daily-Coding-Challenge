@@ -399,3 +399,10 @@ LeetCode - Binary Tree Inorder Traversal
 CodeChef - Travel Pass
 CodingNinjas - Different Bits Sum Pairwise
 GeeksForGeeks - Reverse Coding
+
+Day 57 Coding Challenge:
+10/12/2023
+LeetCode - Transpose Matrix
+CodeChef - Swapping Chefs Way
+CodingNinjas - Search Insert Position
+GeeksForGeeks - Subarray With 0 Sum

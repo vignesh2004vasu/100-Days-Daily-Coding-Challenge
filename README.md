@@ -406,3 +406,10 @@ LeetCode - Transpose Matrix
 CodeChef - Swapping Chefs Way
 CodingNinjas - Search Insert Position
 GeeksForGeeks - Subarray With 0 Sum
+
+Day 58 Coding Challenge:
+11/12/2023
+LeetCode - Element Appearing More Than 25%
+CodeChef - Similar Dishes
+CodingNinjas - Ninja and Old Friends
+GeeksForGeeks - Max Sum of size k 

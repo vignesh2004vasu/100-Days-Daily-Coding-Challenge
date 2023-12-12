@@ -413,3 +413,10 @@ LeetCode - Element Appearing More Than 25%
 CodeChef - Similar Dishes
 CodingNinjas - Ninja and Old Friends
 GeeksForGeeks - Max Sum of size k 
+
+Day 59 Coding Challenge:
+12/12/2023
+LeetCode - Maximum Productg of Two Elements in an Array
+CodeChef - Two Different Palindromes
+CodingNinjas - 
+GeeksForGeeks - Gold Mine Problem

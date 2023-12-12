@@ -418,5 +418,5 @@ Day 59 Coding Challenge:
 12/12/2023
 LeetCode - Maximum Productg of Two Elements in an Array
 CodeChef - Two Different Palindromes
-CodingNinjas - 
+CodingNinjas - Duplicate in Array
 GeeksForGeeks - Gold Mine Problem

@@ -420,3 +420,10 @@ LeetCode - Maximum Productg of Two Elements in an Array
 CodeChef - Two Different Palindromes
 CodingNinjas - Duplicate in Array
 GeeksForGeeks - Gold Mine Problem
+
+Day 60 Coding Challenge:
+13/12/2023
+LeetCode - Special Positions in a Binary Matrix
+CodeChef - Farmer Feb
+CodingNinjas - Tower of Hanoi
+GeeksForGeeks - Consecutive 1's not allowed

@@ -427,3 +427,10 @@ LeetCode - Special Positions in a Binary Matrix
 CodeChef - Farmer Feb
 CodingNinjas - Tower of Hanoi
 GeeksForGeeks - Consecutive 1's not allowed
+
+Day 61 Coding Challenge:
+14/12/2023
+LeetCode - Difference Between Ones And Zeros In Row And Column
+CodeChef - Hostel Room
+CodingNinjas - Form a Triangle
+GeeksForGeeks - Total Cuts

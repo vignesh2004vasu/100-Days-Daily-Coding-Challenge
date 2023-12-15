@@ -434,3 +434,10 @@ LeetCode - Difference Between Ones And Zeros In Row And Column
 CodeChef - Hostel Room
 CodingNinjas - Form a Triangle
 GeeksForGeeks - Total Cuts
+
+Day 62 Coding Challenge:
+15/12/2023
+LeetCode - Destination City
+CodeChef - Xor Palindrome
+CodingNinjas - Excel Sheet
+GeeksForGeeks - Reach Nth point

@@ -441,3 +441,10 @@ LeetCode - Destination City
 CodeChef - Xor Palindrome
 CodingNinjas - Excel Sheet
 GeeksForGeeks - Reach Nth point
+
+Day 63 Coding Challenge:
+16/12/2023
+LeetCode - Count Binary Strings
+CodeChef - Laptop Recommendation
+CodingNinjas - Find Peak Element
+GeeksForGeeks - Frequency Game

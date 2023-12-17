@@ -448,3 +448,10 @@ LeetCode - Count Binary Strings
 CodeChef - Laptop Recommendation
 CodingNinjas - Find Peak Element
 GeeksForGeeks - Frequency Game
+
+Day 64 Coding Challenge:
+17/12/2023
+LeetCode - Majority element
+CodeChef - Make A and B Equal
+CodingNinjas - First and last position of an element in sorted array 
+GeeksForGeeks - Max Sum without Adjacents

@@ -455,3 +455,10 @@ LeetCode - Majority element
 CodeChef - Make A and B Equal
 CodingNinjas - First and last position of an element in sorted array 
 GeeksForGeeks - Max Sum without Adjacents
+
+Day 65 Coding Challenge:
+18/12/2023
+LeetCode - Count Number of Pairs With Absolute
+CodeChef - Train Partner
+CodingNinjas - Next Greater Element
+GeeksForGeeks - Game of XOR

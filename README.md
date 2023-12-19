@@ -462,3 +462,10 @@ LeetCode - Count Number of Pairs With Absolute
 CodeChef - Train Partner
 CodingNinjas - Next Greater Element
 GeeksForGeeks - Game of XOR
+
+Day 66 Coding Challenge:
+19/12/2023
+LeetCode - Image Smoother
+CodeChef - Apples and Oranges
+CodingNinjas - Beautiful String
+GeeksForGeeks - Rightmost different

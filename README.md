@@ -469,3 +469,10 @@ LeetCode - Image Smoother
 CodeChef - Apples and Oranges
 CodingNinjas - Beautiful String
 GeeksForGeeks - Rightmost different
+
+Day 67 Coding Challenge:
+20/12/2023
+LeetCode - Buy Two Chocolates
+CodeChef - OR Permutations
+CodingNinjas - Minimum Sum Subarray of Given Size
+GeeksForGeeks - Minimum number of jumps

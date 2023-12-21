@@ -476,3 +476,10 @@ LeetCode - Buy Two Chocolates
 CodeChef - OR Permutations
 CodingNinjas - Minimum Sum Subarray of Given Size
 GeeksForGeeks - Minimum number of jumps
+
+Day 68 Coding Challenge:
+21/12/2023
+LeetCode - Widest Vertical Area Between Two Points Containing No Points
+CodeChef - Ups and Downs
+CodingNinjas - 
+GeeksForGeeks - Candy

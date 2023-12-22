@@ -483,3 +483,10 @@ LeetCode - Widest Vertical Area Between Two Points Containing No Points
 CodeChef - Ups and Downs
 CodingNinjas - 
 GeeksForGeeks - Candy
+
+Day 69 Coding Challenge:
+22/12/2023
+LeetCode - Maximum Score After Splitting a String
+CodeChef - Equal card Game
+CodingNinjas - Find MSB in O(1)
+GeeksForGeeks - Binary Modulo

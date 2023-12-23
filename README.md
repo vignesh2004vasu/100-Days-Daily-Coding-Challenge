@@ -490,3 +490,10 @@ LeetCode - Maximum Score After Splitting a String
 CodeChef - Equal card Game
 CodingNinjas - Find MSB in O(1)
 GeeksForGeeks - Binary Modulo
+
+Day 70 Coding Challenge:
+23/12/2023
+LeetCode - Path Crossing
+CodeChef - Attic Crossing
+CodingNinjas -  Find Four Elements That Sums To A Given Value
+GeeksForGeeks - Rearrange an array with O(1) extra space

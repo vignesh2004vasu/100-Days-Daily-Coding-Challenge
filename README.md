@@ -497,3 +497,10 @@ LeetCode - Path Crossing
 CodeChef - Attic Crossing
 CodingNinjas -  Find Four Elements That Sums To A Given Value
 GeeksForGeeks - Rearrange an array with O(1) extra space
+
+Day 71 Coding Challenge:
+24/12/2023
+LeetCode - Minimum Changes To Make Alternating Binary String
+CodeChef - Collisions
+CodingNinjas -  Combinatio Sum
+GeeksForGeeks - Taxi Booking

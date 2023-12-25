@@ -504,3 +504,10 @@ LeetCode - Minimum Changes To Make Alternating Binary String
 CodeChef - Collisions
 CodingNinjas -  Combinatio Sum
 GeeksForGeeks - Taxi Booking
+
+Day 72 Coding Challenge:
+25/12/2023
+LeetCode - Lucky Numbers in a Matrix
+CodeChef - Split N
+CodingNinjas - Find The Lone Bit
+GeeksForGeeks - Leaders in An Array

@@ -511,3 +511,18 @@ LeetCode - Lucky Numbers in a Matrix
 CodeChef - Split N
 CodingNinjas - Find The Lone Bit
 GeeksForGeeks - Leaders in An Array
+
+Day 73 Coding Challenge:
+26/12/2023
+LeetCode - Running Sum
+CodeChef - Slow Solution
+CodingNinjas - Single Number II
+GeeksForGeeks - Maximize Toys
+
+
+Day 74 Coding Challenge:
+27/12/2023
+LeetCode - Range Sum Query
+CodeChef - Reach CodeTown
+CodingNinjas - Maximum XOR
+GeeksForGeeks - Height Of Binary Tree

@@ -519,10 +519,16 @@ CodeChef - Slow Solution
 CodingNinjas - Single Number II
 GeeksForGeeks - Maximize Toys
 
-
 Day 74 Coding Challenge:
 27/12/2023
 LeetCode - Range Sum Query
 CodeChef - Reach CodeTown
 CodingNinjas - Maximum XOR
 GeeksForGeeks - Height Of Binary Tree
+
+Day 75 Coding Challenge:
+28/12/2023
+LeetCode - Goat latin
+CodeChef - Christmas Candy
+CodingNinjas - Mindbending product
+GeeksForGeeks - Implement  Atoi

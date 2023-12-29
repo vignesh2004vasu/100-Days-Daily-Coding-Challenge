@@ -532,3 +532,10 @@ LeetCode - Goat latin
 CodeChef - Christmas Candy
 CodingNinjas - Mindbending product
 GeeksForGeeks - Implement  Atoi
+
+Day 76 Coding Challenge:
+29/12/2023
+LeetCode - Build Array from Permutation
+CodeChef - Distinct Codes
+CodingNinjas - Sum of Max and Min
+GeeksForGeeks - Trapping Rain Water

@@ -539,3 +539,18 @@ LeetCode - Build Array from Permutation
 CodeChef - Distinct Codes
 CodingNinjas - Sum of Max and Min
 GeeksForGeeks - Trapping Rain Water
+
+Day 77 Coding Challenge:
+30/12/2023
+LeetCode - Same Tree
+CodeChef - Strike or Spare
+CodingNinjas - Remove Duplicates from Sorted Array
+GeeksForGeeks - Search in a matrix
+
+
+Day 78 Coding Challenge:
+31/12/2023
+LeetCode - Largest Sybstring Between Two Equal Characters
+CodeChef - Byte to Bit
+CodingNinjas - Maximum meetings 
+GeeksForGeeks - Key Pair

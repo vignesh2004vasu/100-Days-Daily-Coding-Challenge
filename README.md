@@ -554,3 +554,17 @@ LeetCode - Largest Sybstring Between Two Equal Characters
 CodeChef - Byte to Bit
 CodingNinjas - Maximum meetings 
 GeeksForGeeks - Key Pair
+
+Day 79 Coding Challenge:
+1/1/2024
+LeetCode -
+CodeChef - 
+CodingNinjas - 
+GeeksForGeeks - 
+
+Day 80 Coding Challenge:
+2/1/2024
+LeetCode - Maximum Nesting Depth of the Parentheses
+CodeChef - Break The Elements
+CodingNinjas - Insert An Element At Its Bottom In a given Stack
+GeeksForGeeks - Minimize Heights II

@@ -557,10 +557,10 @@ GeeksForGeeks - Key Pair
 
 Day 79 Coding Challenge:
 1/1/2024
-LeetCode -
-CodeChef - 
-CodingNinjas - 
-GeeksForGeeks - 
+LeetCode - Find the pivot integer
+CodeChef - Disabled King
+CodingNinjas - Shape and Overriding
+GeeksForGeeks - product array puzzle
 
 Day 80 Coding Challenge:
 2/1/2024

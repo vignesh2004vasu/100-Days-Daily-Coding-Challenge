@@ -568,3 +568,10 @@ LeetCode - Maximum Nesting Depth of the Parentheses
 CodeChef - Break The Elements
 CodingNinjas - Insert An Element At Its Bottom In a given Stack
 GeeksForGeeks - Minimize Heights II
+
+Day 81 Coding Challenge:
+3/1/2024
+LeetCode - Number of Laser Beams in a Bank
+CodeChef - Path Parity
+CodingNinjas - Encoding the Message
+GeeksForGeeks - Coins of Geekland

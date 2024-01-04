@@ -575,3 +575,10 @@ LeetCode - Number of Laser Beams in a Bank
 CodeChef - Path Parity
 CodingNinjas - Encoding the Message
 GeeksForGeeks - Coins of Geekland
+
+Day 82 Coding Challenge:
+4/1/2024
+LeetCode - Power of Three
+CodeChef - Chef and Glove
+CodingNinjas - Rock Paper Scissor
+GeeksForGeeks - Find element occuring once when all other are present thrice

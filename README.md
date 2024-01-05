@@ -582,3 +582,10 @@ LeetCode - Power of Three
 CodeChef - Chef and Glove
 CodingNinjas - Rock Paper Scissor
 GeeksForGeeks - Find element occuring once when all other are present thrice
+
+Day 83 Coding Challenge:
+5/1/2024
+LeetCode - 
+CodeChef - Avoid Fixed Point
+CodingNinjas - 
+GeeksForGeeks - 

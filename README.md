@@ -589,3 +589,10 @@ LeetCode -
 CodeChef - Avoid Fixed Point
 CodingNinjas - 
 GeeksForGeeks - 
+
+Day 84 Coding Challenge:
+6/1/2024
+LeetCode - Split a String in Balanced Strings
+CodeChef - Gook Joke
+CodingNinjas - Fruits and Baskets
+GeeksForGeeks - Find Pair Given Difference

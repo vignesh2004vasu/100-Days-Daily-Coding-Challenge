@@ -596,3 +596,18 @@ LeetCode - Split a String in Balanced Strings
 CodeChef - Gook Joke
 CodingNinjas - Fruits and Baskets
 GeeksForGeeks - Find Pair Given Difference
+
+Day 85 Coding Challenge:
+7/1/2024
+LeetCode - 
+CodeChef - 
+CodingNinjas - 
+GeeksForGeeks - 
+
+Day 86 Coding Challenge:
+8/1/2024
+LeetCode - Range Sum of BST
+CodeChef - Covid Spread
+CodingNinjas - Find similarities between two arrays
+GeeksForGeeks - Left View of Binary Tree
+

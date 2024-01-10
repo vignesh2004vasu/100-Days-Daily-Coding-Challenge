@@ -611,3 +611,18 @@ CodeChef - Covid Spread
 CodingNinjas - Find similarities between two arrays
 GeeksForGeeks - Left View of Binary Tree
 
+Day 87 Coding Challenge:
+9/1/2024
+LeetCode - 
+CodeChef - 
+CodingNinjas - 
+GeeksForGeeks -
+
+Day 88 Coding Challenge:
+10/1/2024
+LeetCode - Final Prices with a Special Discount in a shop
+CodeChef - Chef Jumping
+CodingNinjas - Count Words
+GeeksForGeeks - Longest subarray with sum divisible by k
+
+

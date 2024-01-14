@@ -585,10 +585,10 @@ GeeksForGeeks - Find element occuring once when all other are present thrice
 
 Day 83 Coding Challenge:
 5/1/2024
-LeetCode - 
+LeetCode - To Be Or Not To Be
 CodeChef - Avoid Fixed Point
-CodingNinjas - 
-GeeksForGeeks - 
+CodingNinjas - Positive Negative Pair
+GeeksForGeeks - Handshakes
 
 Day 84 Coding Challenge:
 6/1/2024
@@ -599,10 +599,10 @@ GeeksForGeeks - Find Pair Given Difference
 
 Day 85 Coding Challenge:
 7/1/2024
-LeetCode - 
-CodeChef - 
-CodingNinjas - 
-GeeksForGeeks - 
+LeetCode - Minize String Length
+CodeChef - Far Away
+CodingNinjas - Sorting Of a Rotated Sorted Array
+GeeksForGeeks - Gadgets of Doraland
 
 Day 86 Coding Challenge:
 8/1/2024
@@ -613,10 +613,10 @@ GeeksForGeeks - Left View of Binary Tree
 
 Day 87 Coding Challenge:
 9/1/2024
-LeetCode - 
-CodeChef - 
-CodingNinjas - 
-GeeksForGeeks -
+LeetCode - Form Smallest Number from Two digit array
+CodeChef - similar Dishes
+CodingNinjas - Reverse String Word Wise
+GeeksForGeeks - 1's Complement
 
 Day 88 Coding Challenge:
 10/1/2024
@@ -624,5 +624,33 @@ LeetCode - Final Prices with a Special Discount in a shop
 CodeChef - Chef Jumping
 CodingNinjas - Count Words
 GeeksForGeeks - Longest subarray with sum divisible by k
+
+Day 89 Coding Challenge:
+11/1/2024
+LeetCode - Prime in Diagonal
+CodeChef - Find your Gift
+CodingNinjas - Make Sum Divisible by P
+GeeksForGeeks - Maximum average subarray
+
+Day 90 Coding Challenge:
+12/1/2024
+LeetCode - Count Pairs of Similar Strings
+CodeChef - IPL and RCB
+CodingNinjas - Maximum Equal Stack Sum
+GeeksForGeeks - Exactly one swap
+
+Day 91 Coding Challenge:
+13/1/2024
+LeetCode - Most Frequent Even Element
+CodeChef - Large Square
+CodingNinjas - Infix To Postfix
+GeeksForGeeks - Counts Zeros Xor Pairs
+
+Day 92 Coding Challenge:
+14/1/2024
+LeetCode - Determine if Two Strings Are Close
+CodeChef - Three Friends
+CodingNinjas - 0 1 Knapsack
+GeeksForGeeks - Find duplicate rows in a binary matrix
 
 

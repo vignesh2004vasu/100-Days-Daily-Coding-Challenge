@@ -653,4 +653,32 @@ CodeChef - Three Friends
 CodingNinjas - 0 1 Knapsack
 GeeksForGeeks - Find duplicate rows in a binary matrix
 
+Day 93 Coding Challenge:
+15/1/2024
+LeetCode - Ugly Number
+CodeChef - Tax Slabs
+CodingNinjas - Redundant Brackets
+GeeksForGeeks - Repeated Character
+
+Day 94 Coding Challenge:
+16/1/2024
+LeetCode - Fizz Buzz
+CodeChef - Bella Ciao
+CodingNinjas - Closest Difference Pair
+GeeksForGeeks - Geeks and Knots
+
+Day 95 Coding Challenge:
+17/1/2024
+LeetCode - Range Adition
+CodeChef - XOR Equality
+CodingNinjas - Valid Pairs
+GeeksForGeeks - Levels of Game
+
+Day 96 Coding Challenge:
+18/1/2024
+LeetCode - Climbing Stairs
+CodeChef - Mighty Friend
+CodingNinjas - Sweets and Ants
+GeeksForGeeks - Water The Plants
+
 

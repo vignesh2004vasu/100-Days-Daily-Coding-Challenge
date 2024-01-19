@@ -681,4 +681,11 @@ CodeChef - Mighty Friend
 CodingNinjas - Sweets and Ants
 GeeksForGeeks - Water The Plants
 
+Day 97 Coding Challenge:
+19/1/2024
+LeetCode - Move Zeros
+CodeChef - Jumpping in the hills
+CodingNinjas - Find Minimum in Rotated Array
+GeeksForGeeks - Maximize sum after K negations
+
 

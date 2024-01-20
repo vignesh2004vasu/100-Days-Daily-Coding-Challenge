@@ -688,4 +688,11 @@ CodeChef - Jumpping in the hills
 CodingNinjas - Find Minimum in Rotated Array
 GeeksForGeeks - Maximize sum after K negations
 
+Day 98 Coding Challenge:
+20/1/2024
+LeetCode - Number of 1 Bits
+CodeChef - Hotel Bytelandia
+CodingNinjas - Recycling Pens
+GeeksForGeeks - Shop in Candy Store
+
 

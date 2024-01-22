@@ -702,4 +702,11 @@ CodeChef - Different Medians
 CodingNinjas - Rearrange Array
 GeeksForGeeks - Grouping of Numbers
 
+Day 100 Coding Challenge:
+22/1/2024
+LeetCode - Set Mismatch
+CodeChef - Equality
+CodingNinjas - Find The Single Element
+GeeksForGeeks - Counts Zeros Xor Pairs
+
 
